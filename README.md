@@ -1,8 +1,8 @@
 # Superstore
 
 What are the total sales and profit trends over time (monthly/quarterly)? \
-$Total sales per month\
-January 1: $94,924\
+Total sales per month\
+January: $94,924\
 February: $59,751\
 March: $205,005\
 April: $137,762\
