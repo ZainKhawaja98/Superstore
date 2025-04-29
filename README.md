@@ -1,19 +1,19 @@
 # Superstore
 
 #What are the total sales and profit trends over time (monthly/quarterly)? 
-#Total sales per month
-#January 1: $94,924
-#February: $59,751
-#March: $205,005
-#April: $137,762
-#May: $155,028
-#June: $152,718
-#July: $147.238
-#August: 159,044
-#September: $307,649
-#October: $200,322
-#November: $352,461
-#December:$325,293
+##$Total sales per month
+##January 1: $94,924
+##February: $59,751
+##March: $205,005
+##April: $137,762
+##May: $155,028
+##June: $152,718
+##July: $147.238
+##August: 159,044
+##September: $307,649
+##October: $200,322
+##November: $352,461
+##December:$325,293
 Created a column chart that uses the start of the month for the order date and sum of sales.
 Total sales per quarter and year
 2014
