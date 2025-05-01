@@ -14,8 +14,8 @@ September: $307,649\
 October: $200,322\
 November: $352,461\
 December:$325,293\
-\
 Created a column chart that uses the start of the month for the order date and sum of sales.\
+\
 Total sales per quarter and year\
 2014\
 Q1: $74,447\
@@ -39,6 +39,7 @@ Q3: $196,251\
 Q4: $280,054\
 Quarterly growth increased every year. Q4 has the most sales each year followed by Q3 except in 2015 when Q3 had more sales. Q1 had more sales than Q2 in 2014 and 2016 but fewer sales than Q2 in 2015 and 2017.\
 Created a column chart with sales and quarter with year as the legend.\
+\
 Total profit per year\
 2014: $49,543\
 2015: $61,618 24.3% increase\
@@ -52,6 +53,7 @@ Technology: $145,454\
 Office supplies: $122,490\
 Furniture: $18,451\
 Created bar chart with category and profit\
+\
 Profit per sub-category\
 Top three most profitable:\
 Copiers: $55,617\
@@ -70,6 +72,7 @@ East: $678,781 (29.55%)\
 Central: $501,239 (21.82%)\
 South: $391,721 (17.05%)\
 Created a donut chart with region and sum of sales\
+\
 Sales per segment:\
 Consumer: $1,161,401 (50.56%)\
 Corporate: $706,146 (30.74%)\
