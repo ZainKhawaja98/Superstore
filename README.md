@@ -37,8 +37,55 @@ Q2: $133,764\
 Q3: $196,251\
 Q4: $280,054\
 Quarterly growth increased every year. Q4 has the most sales each year followed by Q3 except in 2015 when Q3 had more sales. Q1 had more sales than Q2 in 2014 and 2016 but fewer sales than Q2 in 2015 and 2017.\
-Created a column chart with sales and quarter with year as the legend.
-#Which product categories/sub-categories are the most/least profitable?
-#Which regions or customer segments contribute the most to sales?
-#Is there a correlation between discounts and profit margins?
-#What are the top 10 most valuable customers?
+Created a column chart with sales and quarter with year as the legend.\
+Total profit per year\
+2014: $49,543\
+2015: $61,618 24.3% increase\
+2016: $81,795 32.7% increase\
+2017: $93,439 14.2% increase\
+Created a column chart with sums of monthly sales and years.\
+Which product categories/sub-categories are the most/least profitable?\
+Profit per catgory\ 
+Technology: $145,454\
+Office supplies: $122,490\
+Furniture: $18,451\
+Created bar chart with category and profit\
+Profit per sub-category\
+Top three most profitable:\
+Copiers: $55,617\
+Phones: $44,515\
+Accessories: $41,936\
+Top three least profitable:\
+Supplies: -$1,189\
+Bookcases: -$3,472\
+Tables: -$17,725\
+Created bar chart with sub-category and profit\
+Which regions or customer segments contribute the most to sales?\
+Sales per region:\
+West: $725,457 (31.58%)\
+East: $678,781 (29.55%)\
+Central: $501,239 (21.82%)\
+South: $391,721 (17.05%)\
+Created a donut chart with region and sum of sales\
+Sales per segment:\
+Consumer: $1,161,401 (50.56%)\
+Corporate: $706,146 (30.74%)\
+Home Office: $429,653 (18.70%)\
+Created a donut chart with segment and sum of sales\
+Is there a correlation between discounts and profit margins?\
+Profit per discount:\
+0%: $320,987\
+10%: $9,029\
+15%: $1,418\
+20%: $90,337\
+30%: -$10,369\
+32%: -$2,391\
+40%: -$23,057\
+45%: -$2,493\
+50%: -$20,506\
+60%: -$5,944\
+70%: -$40,075\
+80%: -$30,539\
+20% discount has the highest profit and any discount higher will result in a loss.\
+Created a bar chart with discount and sum of profit\
+What are the top 10 most valuable customers?\
