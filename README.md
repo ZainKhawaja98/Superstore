@@ -48,7 +48,7 @@ Total profit per year\
 Created a column chart with sums of monthly sales and years.\
 \
 Which product categories/sub-categories are the most/least profitable?\
-Profit per catgory\ 
+Profit per catgory\
 Technology: $145,454\
 Office supplies: $122,490\
 Furniture: $18,451\
