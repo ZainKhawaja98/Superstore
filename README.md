@@ -14,6 +14,7 @@ September: $307,649\
 October: $200,322\
 November: $352,461\
 December:$325,293\
+\
 Created a column chart that uses the start of the month for the order date and sum of sales.\
 Total sales per quarter and year\
 2014\
@@ -44,6 +45,7 @@ Total profit per year\
 2016: $81,795 32.7% increase\
 2017: $93,439 14.2% increase\
 Created a column chart with sums of monthly sales and years.\
+\
 Which product categories/sub-categories are the most/least profitable?\
 Profit per catgory\ 
 Technology: $145,454\
@@ -60,6 +62,7 @@ Supplies: -$1,189\
 Bookcases: -$3,472\
 Tables: -$17,725\
 Created bar chart with sub-category and profit\
+\
 Which regions or customer segments contribute the most to sales?\
 Sales per region:\
 West: $725,457 (31.58%)\
@@ -72,6 +75,7 @@ Consumer: $1,161,401 (50.56%)\
 Corporate: $706,146 (30.74%)\
 Home Office: $429,653 (18.70%)\
 Created a donut chart with segment and sum of sales\
+\
 Is there a correlation between discounts and profit margins?\
 Profit per discount:\
 0%: $320,987\
