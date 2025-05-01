@@ -108,5 +108,5 @@ What are the top 10 most valuable customers?\
   Keith Dawkins: $3,038\
   Andy Reiter: $2,884\
   Daniel Raglin: $2,869\
-Created a bar chart with customer name and profit\
+Created a bar chart with customer name and profit
 
