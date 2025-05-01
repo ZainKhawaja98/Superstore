@@ -95,6 +95,7 @@ Is there a correlation between discounts and profit margins?\
   80%: -$30,539\
   20% discount has the highest profit and any discount higher will result in a loss.\
   Created a bar chart with discount and sum of profit\
+\
 What are the top 10 most valuable customers?\
   Tamara Chand: $8,981\
   Raymond Buch: $6,976\
@@ -107,3 +108,4 @@ What are the top 10 most valuable customers?\
   Andy Reiter: $2,884\
   Daniel Raglin: $2,869\
 Created a bar chart with customer name and profit\
+\
