@@ -46,6 +46,7 @@ What are the total sales and profit trends over time (monthly/quarterly)? \
   2016: $81,795 32.7% increase\
   2017: $93,439 14.2% increase\
   Created a column chart with sums of monthly sales and years.\
+  To create all three charts I made new columns in the data sheet called start of month and year which came from the order date. These columns were grouped by monthly sales and profit and they were used as the y-axis for the bar charts.\
 \
 Which product categories/sub-categories are the most/least profitable?\
   Profit per catgory\
@@ -108,4 +109,4 @@ What are the top 10 most valuable customers?\
   Andy Reiter: $2,884\
   Daniel Raglin: $2,869\
 Created a bar chart with customer name and profit\
-\
+
